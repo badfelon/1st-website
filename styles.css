@@ -1,0 +1,39 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family:  'Merriweather',serif;
+
+}
+h1{
+  font-size: 80px;
+  padding: 50px;
+  margin: 0 auto;
+  width: 500px;
+  font-family: 'Sacramento',cursive;
+}
+
+
+
+
+.top-container {
+  background-color: #CFFFDC;
+}
+
+.middle-container{
+background-color: #CFFFDC;
+}
+
+.bottom-container{
+background-color: #CFFFDC;
+}
+.top-cloud{
+  position: relative;
+  left:10%;
+}
+.bottom-cloud
+{
+  position:absolute;
+  left: 30%;
+
+}
